@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26327" started-at="2020-05-16T12:10:49 IST" finished-at="2020-05-16T12:11:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26327" started-at="2020-05-16T12:10:49 IST" finished-at="2020-05-16T12:11:15 IST">
+      <class name="com.ppr.lib.smoke.Test_Sample">
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:com.ppr.lib.smoke.Test_Sample@1e965684]" name="Precondition" is-config="true" duration-ms="9759" started-at="2020-05-16T12:10:49 IST" finished-at="2020-05-16T12:10:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="TestSample()[pri:0, instance:com.ppr.lib.smoke.Test_Sample@1e965684]" name="TestSample" duration-ms="16391" started-at="2020-05-16T12:10:59 IST" finished-at="2020-05-16T12:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSample -->
+        <test-method status="PASS" signature="Postcondition()[pri:0, instance:com.ppr.lib.smoke.Test_Sample@1e965684]" name="Postcondition" is-config="true" duration-ms="129" started-at="2020-05-16T12:11:15 IST" finished-at="2020-05-16T12:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcondition -->
+      </class> <!-- com.ppr.lib.smoke.Test_Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
