@@ -43,7 +43,7 @@
           <suiteXmlFiles>
   
           <suiteXmlFile>smoke.xml</suiteXmlFile>
-          <suiteXmlFile>Regression.xml</suiteXmlFile>
+    <!--      <suiteXmlFile>Regression.xml</suiteXmlFile>  -->
          
           </suiteXmlFiles>
         </configuration>
