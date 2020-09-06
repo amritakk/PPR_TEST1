@@ -25,7 +25,7 @@ public class Test_Sample {
   }
   @ AfterMethod
   public void Postcondition() {
-	  
+	  //to close the browser
 	  driver.close();
   }
  
